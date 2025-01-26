@@ -1,39 +1,44 @@
-# Hi, I'm Nuwan Samarasinghe 👋
+![Views Counter](https://views-counter.vercel.app/badge?pageId=nuwan-samarasinghe&leftColor=444040&rightColor=750000&type=total&label=TOTAL%20VIEWS&style=upper)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=nuwan-samarasinghe&leftColor=444040&rightColor=750000&type=daily&label=TODAY%20VIEWS&style=upper)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=nuwan-samarasinghe&leftColor=444040&rightColor=750000&type=unique&label=UNIQUE%20VIEWS&style=upper)
 
-I'm a passionate software engineer with a focus on [Your Specialization, e.g., Full-Stack Development, Machine Learning, etc.]. I enjoy contributing to open-source projects and collaborating with the developer community.
 
-## 🚀 About Me
+![ProfileBanner](https://media.licdn.com/dms/image/v2/D5616AQEWdQWxR8Y3wA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1691638466910?e=1743638400&v=beta&t=ZEiEMXlTnb3BM3HpbLyDGz7iYtPnBaMKMSw11XGjdq0)
 
-- 🔭 I’m currently working on [Project Name](Link to Project)
+| 🚀 About Me                                                                                     |
+|-----------------------------------------------------------------------------------------|
+| At the MHCLG, my expertise in AWS and backend architecture is pivotal for enhancing the funding service application process. Our team's focus on Test-Driven Development ensures robust solutions that cater to critical tracking requirements. Prior to this, my role at Mitra Innovation enriched my skills in designing data sync platforms, where mentoring and leading technical reviews were key. My dedication to continuous learning and excellence in software engineering drives my contribution to successful project outcomes.                            |
+
+- 🔭 I’m currently working on [Fund Management]([Link to Project](https://github.com/communitiesuk))
 - 🌱 I’m learning [Agile, AWS]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Topics you're knowledgeable about]
+- 👯 I’m looking to collaborate with Fullstack Developers.
+- 💬 Ask me about Frontend and Backend Development.
 - 📫 How to reach me: [nuwansamarasinghe100@gmail.com]
-- ⚡ Fun fact: [A fun fact about you]
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages
 
-![Languages and Tools](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,cypress,django,docker,dynamodb,git,github,gradle,hibernate,html,idea,java,js,jenkins,linux,maven,mysql,nodejs,npm,postgres,postman,react,redis,sentry,terraform,ts,vue,webpack,yarn&perline=20&theme=dark)
+![Languages](https://skillicons.dev/icons?i=css,python,html,java,js,mysql,terraform,&perline=20&theme=dark)
+
+## 🛠️ Frameworks
+
+![Languages and Tools](https://skillicons.dev/icons?i=angular,bootstrap,cypress,django,hibernate,nodejs,npm,react,ts,vue,webpack,yarn&perline=20&theme=dark)
+
+## 🛠️ Tools
+
+![Languages and Tools](https://skillicons.dev/icons?i=aws,bitbucket,docker,dynamodb,git,github,gradle,idea,jenkins,linux,maven,mysql,postgres,postman,redis,sentry&perline=20&theme=dark)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuwan-samarasinghe&show_icons=true&theme=onedark)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwan-samarasinghe" />
 
-## 🔥 Streak Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuwan-samarasinghe&show_icons=true&include_all_commits=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuwan-samarasinghe&theme=dark)](https://git.io/streak-stats)
-
-## 📊 Contribution Graph
-
-[![Nuwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nuwan-samarasinghe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<br/>
+<br/>
 
 ## 🏆 GitHub Trophies
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nuwan-samarasinghe&theme=nord&margin-w=5&margin-h=5)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=nuwan-samarasinghe&margin-w=5&margin-h=5" />
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourUsername/)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat&logo=twitter)](https://twitter.com/YourHandle)
-[![Personal Website](https://img.shields.io/badge/Website-YourWebsite-blue?style=flat&logo=google-chrome)](https://YourWebsite.com)
-
+Last Edited on: 26/01/2025
